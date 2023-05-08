@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Mehmet
+
+- 🔭 I’m currently working on something cool 😎
+- 🌱 I’m currently learning **Java, Javascript, React.js etc.**
+- 📫 How to reach me: mehmet.ali.elagoz@hotmail.com
+
+
+
 
 <!--
 **Remavi/Remavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
